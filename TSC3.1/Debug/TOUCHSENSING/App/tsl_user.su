@@ -1,0 +1,7 @@
+../TOUCHSENSING/App/tsl_user.c:192:6:tsl_user_Init	8	static
+../TOUCHSENSING/App/tsl_user.c:208:19:tsl_user_Exec	16	static
+../TOUCHSENSING/App/tsl_user.c:335:6:HAL_TSC_ConvCpltCallback	16	static
+../TOUCHSENSING/App/tsl_user.c:362:19:tsl_user_Exec_IT	16	static
+../TOUCHSENSING/App/tsl_user.c:445:6:tsl_user_SetThresholds	8	static
+../TOUCHSENSING/App/tsl_user.c:460:8:MyTKeys_ErrorStateProcess	8	static
+../TOUCHSENSING/App/tsl_user.c:472:6:MyTKeys_OffStateProcess	8	static
